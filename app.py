@@ -5,6 +5,7 @@ import scraping
 
 ## set up Flask ##
 app = Flask(__name__)
+## app.debug = True ## <-- uncomment this line to debug ##
 
 ## tell Python how to connect to Mongo using PyMongo
 # Use flask_pymongo to set up mongo connection

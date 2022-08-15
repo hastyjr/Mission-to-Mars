@@ -1,4 +1,5 @@
 ## ignore ##
 Practice.ipynb
 .ipynb_checkpoints
+__pycache__
 
